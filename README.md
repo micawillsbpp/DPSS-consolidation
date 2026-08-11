@@ -7,4 +7,4 @@ data-science-project
 
 
 **test this text**
-![EDA](descriptive-statistics)
+![EDA](descriptive-statistics.png)
