@@ -3,8 +3,8 @@ data-science-project
 
 
 ## Hypothesis testing
-[ANOVA Test](Anova-single-factor.png)
+[ANOVA Test](images/Anova-single-factor.png)
 
 
 **test this text**
-![EDA](descriptive-statistics.png)
+![EDA](images/descriptive-statistics.png)
