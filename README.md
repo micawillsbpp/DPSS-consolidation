@@ -8,3 +8,8 @@ data-science-project
 
 **test this text**
 ![EDA](images/descriptive-statistics.png)
+
+
+```python
+RANDOM_SEED = 42
+```
